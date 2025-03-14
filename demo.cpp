@@ -1,6 +1,10 @@
 #include<iostream>
 using namespace std;
-int main(){
+void say_hello(){
+    cout<<"hii everyone";
+}
+
+    int main(){
     int age;
     age=20;
     string name="nita";
