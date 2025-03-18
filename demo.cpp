@@ -15,5 +15,11 @@ void isAdult(int age){
     int age;
     age=20;
     string name="nita";
+    string name="email";
+    void isAdult(int age)
+    {
+        cout<<Adult;
+    }
+
     return 0;
 }
